@@ -1,16 +1,2 @@
-# task_1
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ Daily Quotes App
+The Daily Quotes App is a clean and modern Flutter application designed to inspire users with beautiful daily quotes. It features a stylish splash screen, a home screen displaying a list of motivational quotes with author images, and a favorites section where users can save the quotes they love. The app focuses on a trendy and responsive UI and uses Provider for state management to handle favorite quotes locally.
