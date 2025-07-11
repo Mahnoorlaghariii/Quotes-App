@@ -55,6 +55,14 @@ flutter:
   uses-material-design: true
   assets:
      - assets/logoi.png
+     - assets/authors1.jpg
+     - assets/authors2.jpg
+     - assets/authors3.jpg
+     - assets/authors4.jpg
+     - assets/authors5.jpg
+     - assets/authors6.jpg
+
+     
    
 
   # An image asset can refer to one or more resolution-specific "variants", see

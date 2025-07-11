@@ -1,7 +1,7 @@
 class Quotes {
   final String quoteText;
   final String AuthName;
-  final String AuthImageURl;
+  final AuthImageURl;
   bool isFavorite;
 
   Quotes({
